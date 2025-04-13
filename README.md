@@ -1,1 +1,33 @@
 # GLEAM-Bench
+
+
+## Download
+We provide all the preprocessed data used in our work, including mesh files and ground-truth surface points. We recommend users download the data from our provided Google Drive link [[HERE](https://drive.google.com/drive/folders/1SUcDy8hwluEBpTtKZ3_83ySKnLlsZ4hi?usp=sharing)].
+
+The directory structure should be as follows.
+
+```
+data_gleam
+├── houses3k
+│   ├── gt
+│   ├── obj
+│   ├── urdf
+├── omniobject3d
+├── ...
+```
+
+
+## Citation
+
+The GLEAM-Bench dataset comes from the GLEAM paper:
+
+**arXiv**
+TODO
+
+**Code**
+https://github.com/zjwzcx/GLEAM
+
+**BibTex**
+```bibtex
+TODO
+```
