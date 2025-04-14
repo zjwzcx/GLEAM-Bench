@@ -1,6 +1,6 @@
 # GLEAM-Bench
 
-## Overview
+<!-- ## Overview -->
 ![GLEAM-Bench](Fig_Bench.png "GLEAM-Bench")
 We introduce GLEAM-Bench, a benchmark for generalizable exploration for active mapping in complex 3D indoor scenes.
 These scene meshes are characterized by watertight geometry, diverse floorplan (≥10 types), and complex interconnectivity. We unify and refine multi-source datasets through manual filtering, geometric repair, and task-oriented preprocessing. 
