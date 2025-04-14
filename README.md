@@ -3,8 +3,9 @@
 ## Overview
 ![GLEAM-Bench](Fig_Bench.png "GLEAM-Bench")
 We introduce GLEAM-Bench, a benchmark for generalizable exploration for active mapping in complex 3D indoor scenes.
-These scene meshes are characterized by watertight geometry, diverse floorplan ($\geq$10 types), and complex interconnectivity. We unify and refine multi-source datasets through manual filtering, geometric repair, and task-oriented preprocessing. 
-To simulate the exploration process, we connect our dataset with NVIDIA Isaac Gym, enabling parallel sensory data simulation and online policy training, achieving 150 FPS even trained on 512 complex scenes.
+These scene meshes are characterized by watertight geometry, diverse floorplan (≥10 types), and complex interconnectivity. We unify and refine multi-source datasets through manual filtering, geometric repair, and task-oriented preprocessing. 
+To simulate the exploration process, we connect our dataset with NVIDIA Isaac Gym, enabling parallel sensory data simulation and online policy training.
+<!-- , achieving 150 FPS even trained on 512 complex scenes. -->
 
 ## Download
 We provide all the preprocessed data used in our work, including mesh files and ground-truth surface points. We recommend users download the data from our provided Google Drive link [[HERE](https://drive.google.com/drive/folders/1UKSSiG6x7xVq-r1yIfeW_KXhA-C3OqBO?usp=sharing)].
@@ -51,6 +52,8 @@ The GLEAM-Bench dataset comes from the GLEAM paper:
 ```bibtex
 TODO
 ```
+
+
 If you find our dataset/benchmark useful, please also cite them:
 ```bibtex
 @inproceedings{procthor,
