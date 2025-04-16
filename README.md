@@ -1,10 +1,11 @@
 # GLEAM-Bench
+<!-- **[Project Page](https://xiao-chen.tech/gleam/) / [arXiv]() / [Code (GLEAM)](https://github.com/zjwzcx/GLEAM)** -->
+[![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)](https://arxiv.org/abs/2402.16174)
+[![Code](https://img.shields.io/badge/Code-%F0%9F%9A%80-blue)](https://github.com/zjwzcx/GLEAM)
+[![Project](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://xiao-chen.tech/gleam/)
 
-<div id="top" align="center">
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)]()
-[![](https://img.shields.io/badge/Code-%F0%9F%9A%80-blue)](https://github.com/zjwzcx/GLEAM)
-[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://xiao-chen.tech/gleam/) -->
-**[Project Page](https://xiao-chen.tech/gleam/) / [arXiv]() / [Code (GLEAM)](https://github.com/zjwzcx/GLEAM)**
+<div align="center">
+  <img src="Fig_Bench.png" alt="GLEAM-Bench" width="600"/>
 </div>
 
 
