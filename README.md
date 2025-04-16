@@ -39,7 +39,7 @@ data_gleam
 > To expedite the training process, we implemented scene compression measures including the consolidation of entire scenes into unified mesh layers and the removal of textures. In line with our commitment to scalability and community support, full access to the original uncompressed datasets has been openly provided:
 
 
-The raw scene meshs with textures and object-level layers (interactive) are also provided:
+The raw scene meshs with textures and object-level layers (interactive) are also provided [[HERE](https://drive.google.com/drive/folders/1bANfb3C4OZw4p7PxHamp4-XA0tHzQiEk?usp=sharing)], with the similar structure:
 ```
 data_gleam_raw
 ├── procthor_12-room_64
