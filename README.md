@@ -1,7 +1,7 @@
 # GLEAM-Bench
 <!-- **[Project Page](https://xiao-chen.tech/gleam/) / [arXiv]() / [Code (GLEAM)](https://github.com/zjwzcx/GLEAM)** -->
 [![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)](https://arxiv.org/abs/2402.16174)
-[![Code](https://img.shields.io/badge/Code-<COLOR>.svg)](https://github.com/zjwzcx/GLEAM)
+[![Code](https://img.shields.io/badge/Code-GLEAM-<COLOR>.svg)](https://github.com/zjwzcx/GLEAM)
 [![Project](https://img.shields.io/badge/Project-%F0%9F%9A%80-red)](https://xiao-chen.tech/gleam/)
 
 
@@ -41,7 +41,7 @@ data_gleam
 
 The raw scene meshs with textures and object-level layers (interactive) are also provided:
 ```
-raw_data_gleam
+data_gleam_raw
 ├── procthor_12-room_64
 │   ├── gt
 │   ├── obj
