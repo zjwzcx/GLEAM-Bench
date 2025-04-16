@@ -1,10 +1,10 @@
 # GLEAM-Bench
-<!-- **[Project Page](https://xiao-chen.tech/gleam/) / [arXiv]() / [Code (GLEAM)](https://github.com/zjwzcx/GLEAM)** -->
 
 <div id="top" align="center">
-[![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)]()
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-2402.16174-blue)]()
 [![](https://img.shields.io/badge/Code-%F0%9F%9A%80-blue)](https://github.com/zjwzcx/GLEAM)
-[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://xiao-chen.tech/gleam/)
+[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-blue)](https://xiao-chen.tech/gleam/) -->
+**[Project Page](https://xiao-chen.tech/gleam/) / [arXiv]() / [Code (GLEAM)](https://github.com/zjwzcx/GLEAM)**
 </div>
 
 
@@ -22,19 +22,23 @@ The directory structure should be as follows.
 
 ```
 data_gleam
-├── stage1_512
+├── train_stage1_512
 │   ├── gt
 │   ├── obj
 │   ├── urdf
-├── stage2_512
+├── train_stage2_512
+│   ├── gt
+│   ├── obj
+│   ├── urdf
+├── eval_128
 │   ├── gt
 │   ├── obj
 │   ├── urdf
 ```
 
 > [!NOTE]
-> We integrates and distributes ground-truth data from 1,024 training scenes across two stages, maintaining consistency with GLEAM's training configuration.
-> 
+<!-- > We integrates and distributes ground-truth data from 1,024 training scenes across two stages, maintaining consistency with GLEAM's training configuration. -->
+<!-- >  -->
 > To expedite the training process, we implemented scene compression measures including the consolidation of entire scenes into unified mesh layers and the removal of textures. In line with our commitment to scalability and community support, full access to the original uncompressed datasets has been openly provided:
 
 
